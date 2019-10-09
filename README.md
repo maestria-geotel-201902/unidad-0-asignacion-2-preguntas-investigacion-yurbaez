@@ -11,11 +11,11 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* ...
+* Es posible hacer un análisis temporal de la línea costera a partir de imágenes satelitales? 
 
-* ...
+* De qué dependen las variaciones de la línea costera X?
 
-* ...
+* Es posible cuantificar la variación anual de la línea costera X?
 
 * ...
 
